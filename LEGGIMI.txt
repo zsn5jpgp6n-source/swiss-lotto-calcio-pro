@@ -1,0 +1,8 @@
+SWISS LOTTO & CALCIO PRO - CORREZIONE CALCIO
+1. Carica tutti i file e le cartelle di questa cartella nella radice del repository GitHub, NON il file ZIP.
+2. IMPORTANTISSIMO: la cartella .github/workflows/partite.yml deve essere caricata con il percorso esatto. Se GitHub upload non permette di caricare cartelle nascoste, usa Add file > Create new file e digita .github/workflows/partite.yml, incollando il contenuto del file.
+3. Conferma Commit changes.
+4. Apri GitHub > Settings > Actions > General > Workflow permissions: seleziona Read and write permissions e Save, se non e' gia' abilitato.
+5. Apri GitHub > Actions > Aggiorna partite calcio > Run workflow (branch main) > Run workflow.
+6. Dopo che il workflow termina, deve apparire partite.json nella radice del repository. Aspetta 2 minuti e riapri il sito.
+La fonte ESPN non garantisce la copertura di tutte le partite. Aggiornamenti pianificati ogni 30 minuti possono subire ritardi.
