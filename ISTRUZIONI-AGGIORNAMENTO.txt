@@ -1,0 +1,8 @@
+AGGIORNAMENTO CALCIO - SWISS LOTTO & CALCIO PRO
+
+1. Apri il repository GitHub swiss-lotto-calcio-pro.
+2. Carica i file di questo ZIP nella cartella principale del repository.
+3. Conferma la sostituzione di index.html e sw.js (Commit changes).
+4. Attendi GitHub Pages e aggiorna la pagina Safari.
+
+Fonte calcio ESPN: servizio pubblico non garantito, copertura variabile e possibili blocchi CORS. Nessun pronostico inventato.
