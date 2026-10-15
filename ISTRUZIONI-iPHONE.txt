@@ -1,0 +1,10 @@
+SWISS LOTTO & CALCIO PRO - INSTALLAZIONE IPHONE
+
+1. Estrai questo ZIP.
+2. Carica tutti i file insieme su un hosting statico HTTPS (per esempio GitHub Pages o Cloudflare Pages).
+3. Apri il link pubblico con Safari su iPhone.
+4. Tocca Condividi > Aggiungi alla schermata Home > Aggiungi.
+5. Apri la nuova icona dalla schermata Home.
+
+Non basta aprire lo ZIP per installare una app iOS.
+Le partite online dipendono dalla fonte esterna e potrebbero non caricarsi. I pronostici non sono garantiti.
